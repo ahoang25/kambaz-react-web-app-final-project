@@ -1,6 +1,5 @@
 
 import TOC from "./TOC";
-import { Provider } from "react-redux";
 
 export default function FinalProject() {
     return (
