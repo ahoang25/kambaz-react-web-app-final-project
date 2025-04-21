@@ -13,7 +13,7 @@ export default function TOC() {
         </Nav.Item>
 
         <Nav.Item>
-          <Nav.Link href="https://kambaz-node-server-app-1-0mws.onrender.com">Render for Final Project </Nav.Link>
+          <Nav.Link href="https://kambaz-node-server-app-final-project-50lh.onrender.com">Render for Final Project </Nav.Link>
         </Nav.Item>
 
       </Nav>
