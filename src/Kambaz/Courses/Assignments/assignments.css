@@ -1,0 +1,81 @@
+#wd-assignments-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.wd-module {
+  border-left: none !important;
+  border-radius: 6px;
+  overflow: hidden;
+  background-color: white;
+}
+
+.wd-lessons .wd-lesson {
+  padding: 10px 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-left: 4px solid green !important;
+  background-color: white;
+  margin-bottom: 8px;
+}
+
+.wd-title {
+  background-color: #f8f9fa;
+  padding: 12px;
+  border-radius: 6px 6px 0 0;
+  font-weight: bold;
+}
+
+.wd-assignment-list-item {
+  display: flex;
+  align-items: center;
+  padding: 12px 15px;
+  border: 1px solid #d1d5db; 
+  border-left: 4px solid green !important; 
+  border-radius: 6px;
+  background-color: white;
+  margin-bottom: 8px;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.wd-assignment-list-item:hover {
+  background-color: #f8f9fa;
+}
+
+
+.wd-assignment-subtext {
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+.wd-lessons {
+  padding: 0;
+}
+
+.border-success {
+  border-left: 4px solid green !important;
+  border-top: none !important;
+  border-bottom: none !important;
+  border-right: none !important;
+}
+
+.text-danger {
+  color: #d9534f !important;
+}
+
+.text-secondary {
+  color: #6c757d !important;
+}
+
+.text-primary {
+  color: #007bff !important;
+}
+
+.text-primary:hover {
+  text-decoration: underline !important;
+}
+
+

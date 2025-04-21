@@ -1,0 +1,43 @@
+.signin-wrapper {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .signin-container {
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+  }
+  
+  .signin-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  
+  .signin-input {
+    font-size: 16px;
+    padding: 10px;
+  }
+  
+  .signin-btn {
+    font-size: 18px;
+    padding: 10px;
+    font-weight: bold;
+  }
+  
+  .signin-link {
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    color: #007bff;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+  
+  .signin-link:hover {
+    text-decoration: underline;
+  }
+  

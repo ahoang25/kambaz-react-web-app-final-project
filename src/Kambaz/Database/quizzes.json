@@ -1,0 +1,14 @@
+[
+    {
+      "_id": "QUIZ1",
+      "title": "Introduction to Rocket Propulsion",
+      "course": "RS101",
+      "description": "A quick check on the foundational concepts of rocket propulsion covered in the first few weeks.",
+      "available": "2024-04-20",   
+      "due": "2024-04-27",
+      "points": 20,
+      "published": true,
+      "maxAttempts": 3,
+      "questions": [] 
+    }
+  ]

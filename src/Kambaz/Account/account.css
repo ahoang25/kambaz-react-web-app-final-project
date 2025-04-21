@@ -1,0 +1,28 @@
+
+
+  #wd-account-navigation {
+    width: 200px;
+    margin-left: 100px;
+    padding-right: 10px;
+  }
+  
+  #wd-account-navigation .nav-link {
+    font-size: 1.2rem;
+    font-weight: 500;
+    text-decoration: none;
+  }
+  
+  #wd-account-navigation .nav-link.active {
+    color: black;
+    font-weight: bold;
+  }
+  
+  #wd-account-navigation .nav-link.text-danger {
+    color: red;
+  }
+  
+  #wd-account-navigation .nav-link:hover {
+    text-decoration: underline;
+  }
+  
+  

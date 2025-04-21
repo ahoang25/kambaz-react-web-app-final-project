@@ -1,0 +1,43 @@
+.wd-module {
+    border-left: 3px solid #28a745;
+    padding: 10px;
+    margin-bottom: 20px;
+    background: #f9f9f9;
+    border-radius: 5px;
+  }
+  
+  .wd-module-header {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .wd-lesson h6 {
+    font-weight: bold;
+    margin-top: 15px;
+  }
+  
+  .wd-content p {
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .wd-content p svg {
+    margin-right: 5px;
+  }
+  
+  .published {
+    border-left: 3px solid green !important;
+  }
+
+  .dropdown-menu {
+    z-index: 1050 !important;
+    position: absolute !important;
+    display: block;
+  }
+  
+  #wd-modules-controls {
+    overflow: visible !important;
+  }
+  

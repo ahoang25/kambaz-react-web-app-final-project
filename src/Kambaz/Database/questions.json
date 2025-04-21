@@ -1,0 +1,39 @@
+[
+    {
+      "_id": "Q1",
+      "quiz": "QUIZ1",
+      "title": "Which of the following is a type of chemical rocket engine?",
+      "questionType": "MULTIPLE_CHOICE",
+      "points": 5,
+      "choices": ["Ion Thruster", "Solid Propellant", "Plasma Drive", "Solar Sail"],
+      "correctAnswer": "Solid Propellant"
+    },
+    {
+      "_id": "Q2",
+      "quiz": "QUIZ1",
+      "title": "True or False: Specific impulse is a measure of how efficiently a rocket uses its propellant.",
+      "questionType": "TRUE_FALSE",
+      "points": 3,
+      "choices": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "_id": "Q3",
+      "quiz": "QUIZ1",
+      "title": "Explain the role of the nozzle in a rocket engine.",
+      "questionType": "SHORT_ANSWER",
+      "points": 7,
+      "choices": [],
+      "correctAnswer": "The nozzle accelerates the exhaust gases to produce thrust based on Newton's Third Law."
+    },
+    {
+        "_id": "Q4",
+        "quiz": "QUIZ1",
+        "title": "The _______ of a rocket determines how much thrust it can produce.",
+        "questionType": "FILL_BLANK",
+        "points": 5,
+        "choices": [],
+        "correctAnswer": "engine"
+      }
+  ]
+  
