@@ -27,7 +27,12 @@ export default function Quizzes() {
   const fetchQuizzes = async () => {
     try {
       const data = await client.findQuizzesForCourse(cid!);
-      setQuizzes(data);
+  
+      if (isFaculty) {
+        setQuizzes(data);
+      } else {
+        setQuizzes(data.filter((q: any) => q.published));
+      }
     } catch (err) {
       console.error("Failed to fetch quizzes", err);
     }
